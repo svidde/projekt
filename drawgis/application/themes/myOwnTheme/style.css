@@ -1,0 +1,51 @@
+@import url(../../../themes/grid/style.php);
+
+html{background-color:#fff;}
+body{background-color:#fff;}
+#wrapper{
+background-color:#fff;
+border-radius: 2px;
+border: 1px solid;
+}
+#outer-wrap-header{}
+#outer-wrap-footer{}
+a{color:#436370}
+h2{
+	color:#ff0000;
+}
+
+#comment{
+	padding: 10px;
+	margin-left: 100px;
+	border-radius: 10px;
+	border: 1px solid;
+	width: 600px;
+	
+}
+
+textarea{
+	resize:none;
+	width:500px;
+	height:75px;
+}
+
+table {
+	background-color: #f4f8ff;
+	border: 1px solid black;
+	
+}
+th, td { padding:5px 10px 5px 5px; }
+tbody tr { border-bottom: 0px solid #eeeeee; }
+tbody tr:hover { color:#000000; }
+
+td {
+	border: 1px solid black;
+	width: 300px;
+}
+
+.btn { 
+	color:#050; 
+	background-color: #fed;
+	font-weight: bold; 
+	font-size: 14px;
+}
